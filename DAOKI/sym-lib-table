@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name DAOKI)(type Legacy)(uri /home/gustavo/CESE/2B/3DCI/dci2020b-gramoscelli/components/DAOKI.lib)(options "")(descr ""))
+  (lib (name TCST2103)(type Legacy)(uri /home/gustavo/CESE/2B/3DCI/dci2020b-gramoscelli/components/TCST2103/TCST2103.lib)(options "")(descr ""))
+)
