@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/gustavo/CESE/2B/3DCI/dci2020b-gramoscelli/DAOKI/DAOKI.sch)
-    (date "mar 27 oct 2020 01:29:44")
+    (date "jue 05 nov 2020 19:44:32")
     (tool "Eeschema 5.1.7-a382d34a8~87~ubuntu20.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -51,7 +51,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5F9711DD))
     (comp (ref R4)
-      (value 1K)
+      (value 100)
       (footprint Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder)
       (datasheet ~)
       (libsource (lib Device) (part R) (description Resistor))
