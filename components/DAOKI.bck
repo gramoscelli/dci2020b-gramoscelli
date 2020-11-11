@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MOCH22a1
-D Photointerrupter infrared LED with photo IC, non-inverting output, -0.5V to 17V VDD, -20 to +85 degree Celsius, LG206D
-K Photointerrupter infrared LED with photo IC, non-inverting output, -0.5V to 17V VDD, -20 to +85 degree Celsius, LG206D
-F http://kodenshi.co.jp/products/pdf/sensor/photointerrupter_ic/LG206D.pdf
-$ENDCMP
-#
-#End Doc Library
