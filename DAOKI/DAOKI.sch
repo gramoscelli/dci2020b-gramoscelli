@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Módulo tacómetro por optointerruptor de ranura"
-Date "2020-10-26"
-Rev "Diego Brengi"
+Title "Réplica de tacómetro por optointerruptor de ranura"
+Date "2020-11-16"
+Rev "1.0"
 Comp "Gustavo Ramoscelli - UNS"
-Comment1 ""
+Comment1 "Revisor:  Diego Brengi"
 Comment2 "All rights reserved"
 Comment3 "Copyright (c) 2020, Gustavo Ramoscelli"
 Comment4 "BSD Clause-3 Licence  "
