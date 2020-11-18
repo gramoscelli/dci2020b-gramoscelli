@@ -272,7 +272,7 @@ P 4300 4100
 F 0 "U1" H 3900 4600 50  0000 L CNN
 F 1 "LG206D" H 3900 4500 50  0000 L CNN
 F 2 "OptoDevice:Kodenshi_LG206D" H 4300 3600 50  0001 C CNN
-F 3 "http://kodenshi.co.jp/products/pdf/sensor/photointerrupter_ic/LG206D.pdf" H 4000 4095 50  0001 C CNN
+F 3 "$(KIPRJMOD)/manuales/LG206D.pdf" H 4000 4095 50  0001 C CNN
 	1    4300 4100
 	1    0    0    -1  
 $EndComp
