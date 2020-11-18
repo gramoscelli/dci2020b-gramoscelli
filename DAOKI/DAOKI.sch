@@ -4,14 +4,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Réplica de tacómetro por optointerruptor de ranura"
-Date "2020-11-16"
-Rev "1.0"
+Title "Módulo de velocidad tacométrico"
+Date "2020-11-18"
+Rev "0,2"
 Comp "Gustavo Ramoscelli - UNS"
 Comment1 "Revisor:  Diego Brengi"
 Comment2 "All rights reserved"
-Comment3 "Copyright (c) 2020, Gustavo Ramoscelli"
-Comment4 "BSD Clause-3 Licence  "
+Comment3 "Copyright (c) 2020, Gustavo Ramoscelli, BSD Clause-3 Licence  "
+Comment4 "Réplica de tacómetro por optointerruptor de ranura"
 $EndDescr
 $Comp
 L Device:R R1
